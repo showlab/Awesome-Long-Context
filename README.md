@@ -14,6 +14,10 @@
 - [Focused transformer](https://arxiv.org/abs/2307.03170)
 - [Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)
 
+### Open-source models
+
+- [LongChat](https://github.com/lm-sys/FastChat)
+
 ### Long-Form Video Understanding
 
 #### Datasets
