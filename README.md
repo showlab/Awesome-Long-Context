@@ -21,6 +21,11 @@
 - [Ego4D](https://ego4d-data.org/)
 - [Towards Long-Form Video Understanding](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Towards_Long-Form_Video_Understanding_CVPR_2021_paper.pdf)
 
+#### Projects
+
+- [VLog](https://github.com/showlab/VLog)
+- [MovieChat](https://rese1f.github.io/MovieChat/)
+
 #### Others
 
 - [LOVEU workshop](https://sites.google.com/view/loveucvpr22)
