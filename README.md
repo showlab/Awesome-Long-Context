@@ -20,6 +20,11 @@
 
 ### Long-Form Video Understanding
 
+#### Papers
+- [EgoVLP](https://arxiv.org/abs/2206.01670)
+- [UniVTG](https://arxiv.org/abs/2307.16715)
+
+
 #### Datasets
 
 - [Ego4D](https://ego4d-data.org/)
