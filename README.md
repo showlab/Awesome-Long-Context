@@ -17,6 +17,7 @@
 ### Open-source models
 
 - [LongChat](https://github.com/lm-sys/FastChat)
+- [How Long Can Open-Source LLMs Truly Promise on Context Length?](https://lmsys.org/blog/2023-06-29-longchat/)
 
 ### Long-Form Video Understanding
 
