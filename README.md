@@ -13,6 +13,7 @@
 - [LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)
 - [Focused transformer](https://arxiv.org/abs/2307.03170)
 - [Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)
+- [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
 
 ### Open-source models
 
