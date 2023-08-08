@@ -18,6 +18,7 @@
 
 - [LongChat](https://github.com/lm-sys/FastChat)
 - [How Long Can Open-Source LLMs Truly Promise on Context Length?](https://lmsys.org/blog/2023-06-29-longchat/)
+- [LongLLaMA](https://github.com/CStanKonrad/long_llama)
 
 ### Long-Form Video Understanding
 
