@@ -14,6 +14,7 @@
 - [Focused transformer](https://arxiv.org/abs/2307.03170)
 - [Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)
 - [Memorizing Transformers](https://arxiv.org/abs/2203.08913)
+- [Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization](https://arxiv.org/abs/2508.13993)
 
 ### Open-source models
 
